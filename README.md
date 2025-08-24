@@ -1,2 +1,2 @@
 # guessgame
-This is my First Game in HTMNL CSS and Javascript
+My First Game in HTML CSS and Javascript
